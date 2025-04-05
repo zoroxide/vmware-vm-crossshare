@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# This bash script was tested on a fresh KDE Neon Installation (after installing gcc, g++, make, and Cmake)
+# This bashscript was tested on a fresh KDE Neon Installation (after installing gcc, g++, make, and Cmake)
 
 echo "Updating package list..."
 sudo apt update
