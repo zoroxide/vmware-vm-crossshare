@@ -14,7 +14,7 @@ sudo apt install qt6-base-dev qt6-tools-dev qt6-tools-dev-tools
 
 
 echo "Installing both libvirt and qemu ..."
-sudo apt install -y libvirt-dev libvirt-daemon-system libvirt-clients qemu qemu-kvm virt-manager bridge-utils
+sudo apt install -y libvirt-dev libvirt-daemon-system libvirt-clients qemu-system-x86_64 qemu-kvm virt-manager bridge-utils
 
 echo "Installing KF6 (KDE Frameworks 6) components ..."
 sudo apt install -y qt6-qmltooling-plugins \
