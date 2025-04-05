@@ -1,0 +1,6 @@
+sudo apt install -y qt6-qmltooling-plugins \
+    libkf6kirigami2-dev \
+    libkf6coreaddons-dev \
+    libkf6i18n-dev \
+    libkf6qqc2desktopstyle-dev \
+    libkf6iconthemes-dev
